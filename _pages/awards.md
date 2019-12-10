@@ -11,5 +11,6 @@ redirect_from:
 
 * Chairman Gold Medal, NIT Arunachal Pradesh, 2018
 * Institute Gold Medal, NIT Arunachal Pradesh, 2018
+* Winner Addovedi Robowar, NIT Arunachal Pradesh, 2017
 * Student of the Year, NIT Arunachal Pradesh, 2015
 * Rajya Puruskar, Kendriya Vidyalaya Sangathan, 2012

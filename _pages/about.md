@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-* B.Tech in Electronics and Communication Engineering, NIT Arunachal Pradesh, 2014 - 2018
+* B.Tech in Electronics and Communication Engineering, NIT Arunachal Pradesh, 2018
 * Ph.D in Electrical Engineering, IIT Gandhinagar, 2018 - Present
 
 Work experience

@@ -20,4 +20,4 @@ Fellowships and Scholarship
 * Start Early PhD Fellowship, IIT Gandhinagar, 2018
 * Merit Cum Means Scholarship, NIT Arunachal Pradesh, 2018
 * Undergraduate Mentoring Workshop Fellowship, ISCA, 2019
-* VLSID Full Fellowship, VLSID, 2018
+* VLSID Full Fellowship, VLSID, 2019

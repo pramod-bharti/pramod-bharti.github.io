@@ -15,6 +15,7 @@ redirect_from:
 * Student of the Year, NIT Arunachal Pradesh, 2015
 * Rajya Puruskar, Kendriya Vidyalaya Sangathan, 2012
 
+
 Fellowships and Scholarship
 ======
 * Start Early PhD Fellowship, IIT Gandhinagar, 2018

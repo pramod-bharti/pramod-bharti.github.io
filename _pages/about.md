@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2017: Student Research Associate
   * IIT Kanpur
-  * Duties included: Compact Modelling and TCAD simulation of semiconductor devices.
+  * Topic: Compact Modelling and TCAD simulation of semiconductor devices.
   * Supervisor: Dr. Yogesh Singh Chauhan
 
 * Fall 2018 and Fall 2019: Teaching Assistant

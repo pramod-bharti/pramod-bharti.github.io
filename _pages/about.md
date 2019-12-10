@@ -30,5 +30,3 @@ Work experience
   * IIT Gandhinagar
   * Course: Digital System, Embedded System, Microelectronics Lab
   * Instructor: Dr. Joycee Mekie
- 
-======

@@ -83,11 +83,12 @@ author:
   name             : "Kailash Prasad"
   avatar           : "kailash.jpg"
  # bio              : "Your biography for the left-hand sidebar"
+  office           : "Academic Block 5, Room 207"
   location         : "IIT Gandhinagar"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : kailash.prasad@iitgn.ac.in
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+ # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

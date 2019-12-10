@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kailash Prasad"
   avatar           : "kailash.jpg"
- # bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD in Electrical Engineering"
   office           : "Academic Block 5, Room 207"
   location         : "IIT Gandhinagar"
   employer         :

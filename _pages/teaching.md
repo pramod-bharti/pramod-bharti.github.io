@@ -1,8 +1,5 @@
 ---
-layout: archive
 title: "Teaching"
-permalink: /teaching/
-author_profile: true
 collection: teaching
 type: "Undergraduate and Postgraduate Course"
 permalink: /teaching/

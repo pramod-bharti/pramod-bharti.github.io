@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Awards and Achievements"
+    url: /awards/
+
   - title: "Publications"
     url: /publications/
 
@@ -14,9 +17,6 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Awards and Achievements"
-    url: /awards/
     
   - title: "Guide"
     url: /markdown/

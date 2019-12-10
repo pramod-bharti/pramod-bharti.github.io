@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards and Achievements"
-permalink: /Awards/
+permalink: /awards/
 author_profile: true
 redirect_from:
   - /resume

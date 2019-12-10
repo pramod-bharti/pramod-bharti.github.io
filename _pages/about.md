@@ -26,20 +26,10 @@ Work experience
   * Topic: Compact Modelling and TCAD simulation of semiconductor devices.
   * Supervisor: Dr. Yogesh Singh Chauhan
 
-* Fall 2018 and Fall 2019: Teaching Assistant
+* Fall 2018 - Present: Teaching Assistant
   * IIT Gandhinagar
-  * Course: Digital System
-  * Supervisor: Dr. Joycee Mekie
- 
-* Spring 2019: Teaching Assistant
-  * IIT Gandhinagar
-  * Course: Embedded System
-  * Supervisor: Dr. Joycee Mekie
-  
-* Fall 2019: Teaching Assistant
-  * IIT Gandhinagar
-  * Course: Microelectronics Lab
-  * Supervisor: Dr. Joycee Mekie
+  * Course: Digital System, Embedded System, Microelectronics Lab
+  * Instructor: Dr. Joycee Mekie
  
 
 A data-driven personal website

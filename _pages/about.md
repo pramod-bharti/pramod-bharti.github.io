@@ -6,6 +6,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+keywords:
+  - Kailash Prasad
+  - Kailash Prasad IIT Gandhinagar
+  - Kailash Prasad NIT Arunachal Pradesh
+  - Kailash Prasad Kendriya Vidyalaya Tenga Valley
+  - Kailash Prasad PhD in Electrical Engineering
+  - IIT Gandhinagar
+  - NIT Arunachal Pradesh
 ---
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](http://beta.iitgn.ac.in/?utm_source=iitgn)  working with Dr. Joycee Mekie. I currently work in the area of Approximate Computing and CAD tool design.

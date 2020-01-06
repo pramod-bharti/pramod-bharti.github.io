@@ -42,11 +42,6 @@ Work experience
   
 Skill
 ======
-* **EDA Tools**
-  * Xilinx Vivado, Sentaurus TCAD, Design Compiler, VCS, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim
-
-* **Programming and Scripting Languages**
-  * Python, Verilog, C, Bash, TCL
-  
-* **Microcontrollers and Microprocessors**
-  * Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0
+* **EDA Tools**: Xilinx Vivado, Sentaurus TCAD, Design Compiler, VCS, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim
+* **Programming and Scripting Languages**: Python, Verilog, C, Bash, TCL
+* **Microcontrollers and Microprocessors**: Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0

@@ -40,8 +40,8 @@ Work experience
   * Course: Digital System, Embedded System, Microelectronics Lab
   * Instructor: Dr. Joycee Mekie
   
-Skill
+Skills
 ======
 * **EDA Tools**: Xilinx Vivado, Sentaurus TCAD, Design Compiler, VCS, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim
 * **Programming and Scripting Languages**: Python, Verilog, C, Bash, TCL
-* **Microcontrollers and Microprocessors**: Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0
+* **Microcontrollers and Microprocessors**: Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0, 8085

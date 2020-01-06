@@ -43,7 +43,7 @@ Work experience
 Skill
 ======
 * **EDA Tools**
-  * Xilinx Vivado, Sentaurus TCAD, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim
+  * Xilinx Vivado, Sentaurus TCAD, Design Compiler, VCS, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim
 
 * **Programming and Scripting Languages**
   * Python, Verilog, C, Bash, TCL

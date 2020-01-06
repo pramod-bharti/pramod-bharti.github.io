@@ -1,12 +1,9 @@
 ---
 title: "Teaching"
-collection: teaching
-type: "Undergraduate and Postgraduate Course"
+collection: archive
 permalink: /teaching/
 venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
-
-{% include base_path %}
 
 * Fall 2018 and Fall 2019: Teaching Assistant
   * IIT Gandhinagar

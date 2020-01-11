@@ -9,16 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-* Chairman Gold Medal, NIT Arunachal Pradesh, 2018
-* Institute Gold Medal, NIT Arunachal Pradesh, 2018
-* Winner Addovedi Robowar, NIT Arunachal Pradesh, 2017
-* Student of the Year, NIT Arunachal Pradesh, 2015
-* Rajya Puruskar, Kendriya Vidyalaya Sangathan, 2012
-
-
-Fellowships and Scholarship
-======
-* Start Early PhD Fellowship, IIT Gandhinagar, 2018
-* Merit Cum Means Scholarship, NIT Arunachal Pradesh, 2018
-* Undergraduate Mentoring Workshop Fellowship, ISCA, 2019
-* VLSID Full Fellowship, VLSID, 2019
+* Floating Gate Flash Memory
+* Breaking the memory-wall for AI:  In-memory compute, HBMs or both?

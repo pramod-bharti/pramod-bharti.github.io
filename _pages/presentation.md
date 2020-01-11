@@ -13,4 +13,4 @@ redirect_from:
 * Breaking the memory-wall for AI:  In-memory compute, HBMs or both?
 
 
-**Slides will be uploaded soon.
+**Slides will be uploaded soon.**

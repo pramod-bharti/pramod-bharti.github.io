@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Verilog Tutorial
+* <a href="VerilogTutorial.pdf" target="_blank">Verilog Tutorial</a>
 * Floating Gate Flash Memory
 * Breaking the memory-wall for AI:  In-memory compute, HBMs or both?
 

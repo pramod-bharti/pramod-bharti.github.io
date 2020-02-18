@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "Conference Attended"
+title: "Conference and Workshops Attended"
 permalink: /conference/
 author_profile: true
 ---
 
 {% include base_path %}
+* **ACM-India Annual Event**,
+Indian Institute of Technology, Gandhinagar,
+India,
+February 5, 2020
 
 * **The 46th International Symposium on Computer Architecture**,
  Phoenix Convention Center, 
@@ -16,4 +20,3 @@ author_profile: true
  The Leela Palace, 
  Bengaluru, Karnataka 560008, 
  Jan 04-08, 2020
-

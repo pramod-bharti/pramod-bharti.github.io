@@ -12,5 +12,3 @@ redirect_from:
 * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/Fabrication.pdf" target="_blank">Floating Gate Flash Memory</a>
 * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/IMC_HBM.pdf" target="_blank">Breaking the memory-wall for AI:  In-memory compute, HBMs or both?</a>
 
-
-**Slides will be uploaded soon.**

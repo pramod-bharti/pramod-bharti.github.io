@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 {% include base_path %}
-![Test Image]({{ base_path }}/images/pi.jpg){:class="img-responsive"}
+![Test Image]({{ base_path }}/images/image0.jpg){:class="img-responsive"}

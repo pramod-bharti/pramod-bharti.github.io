@@ -39,7 +39,14 @@ Work experience
   * IIT Gandhinagar
   * Course: Digital System, Embedded System, Microelectronics Lab
   * Instructor: Dr. Joycee Mekie
-  
+
+Professional Membership
+======
+* **ACM** Student Membership
+* **IEEE** Circuits and Systems Society Membership
+* **IEEE** Student Membership
+* **IEEE** Young Professionals
+
 Skills
 ======
 * **EDA Tools**: Xilinx Vivado, Sentaurus TCAD, Design Compiler, VCS, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim

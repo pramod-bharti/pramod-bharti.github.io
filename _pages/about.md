@@ -40,7 +40,7 @@ Work experience
   * Course: Digital System, Embedded System, Microelectronics Lab
   * Instructor: Dr. Joycee Mekie
 
-Professional Membership
+Student Membership
 ======
 * **ACM** Student Membership
 * **IEEE** Circuits and Systems Society Membership

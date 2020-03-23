@@ -40,7 +40,7 @@ Work experience
   * Topic: Compact Modelling and TCAD simulation of semiconductor devices.
   * Supervisor: Dr. Yogesh Singh Chauhan
 
-Student Membership
+Student Memberships
 ======
 * **ACM** Student Membership
 * **IEEE** Circuits and Systems Society Membership
@@ -52,3 +52,14 @@ Skills
 * **EDA Tools**: Xilinx Vivado, Sentaurus TCAD, Design Compiler, VCS, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim
 * **Programming and Scripting Languages**: Python, Verilog, C, Bash, TCL, HTML/CSS
 * **Microcontrollers and Microprocessors**: Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0, 8085
+
+Courses Done
+======
+* VLSI Design           
+* Physics of Transistors
+* Computer Architecture 
+* Machine Learning
+* MicroFabrication      
+* Computer Networking
+* Microelectronics Lab  
+* IC Design Lab

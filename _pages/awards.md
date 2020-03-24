@@ -22,4 +22,5 @@ Fellowships and Scholarship
 * **Undergraduate Mentoring Workshop Fellowship**, ISCA, June 2019
 * **Start Early PhD Fellowship**, IIT Gandhinagar, 2018 - 
 * **Merit Cum Means Scholarship**, NIT Arunachal Pradesh, 2014 - 2018
+* **Chief Minister's Talent Award**, Govt. of Arunachal Pradesh, 2014
 

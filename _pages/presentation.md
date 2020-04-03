@@ -13,4 +13,5 @@ redirect_from:
 * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/VerilogTutorial.pdf" target="_blank">Verilog Tutorial</a>
 * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/C_Programming.pdf" target="_blank">A Quick Introduction to C Programming
 </a>
+* <a href="https://github.com/bootloader-kp/ConstantNIT" target="_blank">Python Tutorial</a>
 

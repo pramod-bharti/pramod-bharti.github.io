@@ -18,6 +18,10 @@ keywords:
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Dr. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing and CAD tool design.
 
+Recent
+======
+* Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://constantnit.github.io/kailashprasad/presentation/)
+
 
 Research Interest
 ======

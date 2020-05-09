@@ -20,7 +20,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 Recent
 ======
-* Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/kailashprasad/presentation/)
+* Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/personal/presentation/)
 
 
 Research Interest

@@ -19,7 +19,7 @@ keywords:
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Dr. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing and CAD tool design.
 
-## News and Highlights
+# News and Highlights
 
 | Timeline     | Event                                          |
 | ------------ | ---------------------------------------------- |
@@ -29,16 +29,16 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 | May 2019 | Awarded travel grant from ACM SIGARCH to attend [ISCA 2019 and uArch Workshop](https://iscaconf.org/isca2019/index.html)
 
 
-## Research Interest
+# Research Interest
 
 * Approximate Computing, Hardware for Machine Learning, Emerging Memories
 
-## Education
+# Education
 
 * **Ph.D in Electrical Engineering**, IIT Gandhinagar, 2018 - Present
 * **B.Tech in Electronics and Communication Engineering**, NIT Arunachal Pradesh, 2018
 
-## Work experience
+# Work experience
 
 * **Fall 2018 - Present: Teaching Assistant**
   * IIT Gandhinagar
@@ -50,20 +50,20 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
   * Topic: Compact Modelling and TCAD simulation of semiconductor devices.
   * Supervisor: Dr. Yogesh Singh Chauhan
 
-## Student Memberships
+# Student Memberships
 
 * **ACM** Student Membership
 * **IEEE** Circuits and Systems Society Membership
 * **IEEE** Student Membership
 * **IEEE** Young Professionals
 
-## Skills
+# Skills
 
 * **EDA Tools**: Xilinx Vivado, Sentaurus TCAD, Design Compiler, VCS, MATLAB, Cadence Virtuoso, Calibre, Keil uVision, Custom Compiler, ModelSim
 * **Programming and Scripting Languages**: Python, Verilog, C, Bash, TCL, HTML/CSS
 * **Microcontrollers and Microprocessors**: Raspberry Pi 3, ARM7, Arduino, AVR, ARM Cortex M0, 8085
 
-## Courses Done
+# Courses Done
 
 * VLSI Design           
 * Physics of Transistors

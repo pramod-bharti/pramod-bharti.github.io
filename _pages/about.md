@@ -18,9 +18,13 @@ keywords:
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Dr. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing and CAD tool design.
 
-Recent
+News and Highlights
 ======
-* Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/personal/presentation/)
+| ------------------------------------------- | ----------------------------------------------------- |
+| April 2020 | Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/personal/presentation/)
+| January 2020 | 2 paper accepted at [ISCAS 2020](https://www.iscas2020.org/)
+| January 2020 | Awarded travel grant from VLSID to attend [VLSID 2020](http://embeddedandvlsidesignconference.org/)
+| May 2019 | Awarded travel grant from ACM SIGARCH to attend [ISCA 2019 and uArch Workshop](https://iscaconf.org/isca2019/index.html)
 
 
 Research Interest

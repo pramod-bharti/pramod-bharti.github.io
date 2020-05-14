@@ -21,9 +21,9 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 News and Highlights
 ======
-| Timeline                                        | Event                                                   |
-| ------------------------------------------- | ----------------------------------------------------- |
-| April 2020 | Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/personal/presentation/)
+| Timeline     | Event                                          |
+| ------------ | ---------------------------------------------- |
+| April 2020   | Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/personal/presentation/)
 | January 2020 | 2 paper accepted at [ISCAS 2020](https://www.iscas2020.org/)
 | January 2020 | Awarded travel grant from VLSID to attend [VLSID 2020](http://embeddedandvlsidesignconference.org/)
 | May 2019 | Awarded travel grant from ACM SIGARCH to attend [ISCA 2019 and uArch Workshop](https://iscaconf.org/isca2019/index.html)

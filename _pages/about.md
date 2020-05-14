@@ -34,7 +34,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 # Research Interest
 
-* **Approximate Computing | Hardware for Machine Learning | CAD | Memories**
+* **Approximate Computing \| Hardware for Machine Learning \| CAD \| Memories**
 
 # Education
 

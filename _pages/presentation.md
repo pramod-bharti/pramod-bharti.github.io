@@ -15,4 +15,5 @@ redirect_from:
 * <a href="https://github.com/bootloader-kp/python-tutorial" target="_blank">Python Tutorial</a>
 
 # Events
-* <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NjI3M2w3Y2s4OTVxb2tjaTBnbjdiZzBydDcga2FpbGFzaC5wcmFzYWRAaWl0Z24uYWMuaW4&amp;tmsrc=kailash.prasad%40iitgn.ac.in">Interaction with NIT Arunachal Pradesh Students on Thursday May 21, 2020 at 3 PM <img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+* Interaction with NIT Arunachal Pradesh Students on Thursday May 21, 2020 at 3 PM
+  * <a href="https://meet.google.com/egr-gjrd-hmsl" target="_blank">Join Video Conference</a> 

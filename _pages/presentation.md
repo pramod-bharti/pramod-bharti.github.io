@@ -16,4 +16,4 @@ redirect_from:
 
 # Events
 * Interaction with NIT Arunachal Pradesh Students on Thursday May 21, 2020 at 3 PM
-  * <a href="https://meet.google.com/egr-gjrd-hmsl" target="_blank">Join Video Conference</a> 
+  * <a href="https://meet.google.com/egr-gjrd-hms" target="_blank">Join Video Conference</a> 

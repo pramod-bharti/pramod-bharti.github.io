@@ -1,7 +1,6 @@
 ---
 permalink: /
 author_profile: true
-toc: true
 redirect_from: 
   - /about/
   - /about.html
@@ -15,7 +14,8 @@ keywords:
   - NIT Arunachal Pradesh
 ---
 
-# About me
+About me
+====
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Dr. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing and CAD tool design.
 

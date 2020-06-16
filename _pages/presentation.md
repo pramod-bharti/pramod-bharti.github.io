@@ -13,7 +13,7 @@ redirect_from:
 
 # Tutorials
 * <a href="https://github.com/bootloader-kp/python-tutorial" target="_blank">Python Video Tutorial Series: From Basics to Advanced</a>
-* <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/VerilogTutorial.pdf" target="_blank">Verilog Tutorial</a>
+* <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/VerilogTutorial.pdf" target="_blank">Verilog Tutorial and An Introduction to FPGA</a>
 * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/C_Programming.pdf" target="_blank">A Quick Introduction to C Programming</a>
 
 # Events

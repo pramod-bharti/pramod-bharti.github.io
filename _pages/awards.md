@@ -13,6 +13,7 @@ redirect_from:
 * **Institute Gold Medal**, NIT Arunachal Pradesh, 2018
 * **Winner Addovedi Robowar**, NIT Arunachal Pradesh, 2017
 * **Student of the Year**, NIT Arunachal Pradesh, 2015
+* **Chief Minister's Talent Award**, Govt. of Arunachal Pradesh, 2014
 * **Rajya Puruskar**, Kendriya Vidyalaya Sangathan, 2012
 
 
@@ -22,5 +23,5 @@ Fellowships and Scholarship
 * **Undergraduate Mentoring Workshop Fellowship**, ISCA, June 2019
 * **Start Early PhD Fellowship**, IIT Gandhinagar, 2018 - 2023
 * **Merit Cum Means Scholarship**, NIT Arunachal Pradesh, 2014 - 2018
-* **Chief Minister's Talent Award**, Govt. of Arunachal Pradesh, 2014
+
 

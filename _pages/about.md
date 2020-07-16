@@ -71,7 +71,8 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 * Physics of Transistors
 * Computer Architecture 
 * Machine Learning
-* MicroFabrication      
+* MicroFabrication
+* CMOS Analog IC Design
 * Computer Networking
 * Microelectronics Lab  
 * IC Design Lab

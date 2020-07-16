@@ -45,12 +45,12 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 * **Fall 2018 - Present: Teaching Assistant**
   * IIT Gandhinagar
   * Course: Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture
-  * Instructor: Dr. Joycee Mekie
+  * Instructor: [Dr. Joycee Mekie](https://joycee.people.iitgn.ac.in/)
   
 * **Summer 2017: Student Research Associate**
   * IIT Kanpur
   * Topic: Compact Modelling and TCAD simulation of semiconductor devices.
-  * Supervisor: Dr. Yogesh Singh Chauhan
+  * Supervisor: [Dr. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/)
 
 # Student Memberships
 

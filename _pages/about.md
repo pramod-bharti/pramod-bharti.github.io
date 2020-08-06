@@ -14,7 +14,7 @@ keywords:
   - NIT Arunachal Pradesh
 ---
 
-I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Dr. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing, CAD tool design and SRAM.
+I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing, CAD tool design and SRAM.
 
 # News and Highlights
 
@@ -43,12 +43,12 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 * **Fall 2018 - Present: Teaching Assistant**
   * IIT Gandhinagar
   * Course: Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture
-  * Instructor: [Dr. Joycee Mekie](https://joycee.people.iitgn.ac.in/)
+  * Instructor: [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/)
   
 * **Summer 2017: Student Research Associate**
   * IIT Kanpur
   * Topic: Compact Modelling and TCAD simulation of semiconductor devices.
-  * Supervisor: [Dr. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/)
+  * Supervisor: [Prof. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/)
 
 # Student Memberships
 

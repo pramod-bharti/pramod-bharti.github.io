@@ -74,3 +74,4 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 * Computer Networking
 * Microelectronics Lab  
 * IC Design Lab
+* Mathematical Foundation for Computer Vision

@@ -19,6 +19,7 @@ redirect_from:
 
 Fellowships and Scholarship
 ======
+* **Intel India Research Fellowship**, Intel India, 2020-2021
 * **VLSID Full Fellowship**, VLSID, Jan 2020
 * **Undergraduate Mentoring Workshop Fellowship**, ISCA, June 2019
 * **Start Early PhD Fellowship**, IIT Gandhinagar, 2018 - 2023

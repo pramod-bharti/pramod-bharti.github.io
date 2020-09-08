@@ -20,7 +20,9 @@ main:
     
   - title: "Photo Gallery"
     url: /gallery/
-        
+ 
+  - title: "Collaborators"
+    url: /collaborators/
   #- title: "Blog Posts"
   #  url: /year-archive/
     

@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-* **GLSVLSI '20: 30th ACM Great Lakes Symposium on VLSI**
+* **GLSVLSI '20: 30th ACM Great Lakes Symposium on VLSI**,
 Beijing, 
 China, 
 September 8-11, 2020 (Virtual Event) 
 
-* **AICAS '20: 2nd IEEE International Conference on Artificial Intelligence Circuits and Systems**
+* **AICAS '20: 2nd IEEE International Conference on Artificial Intelligence Circuits and Systems**,
 Genoa, Italy
 August 31 - September 4, 2020 (Virtual Event)
 

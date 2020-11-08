@@ -19,6 +19,7 @@ redirect_from:
 
 Fellowships and Scholarship
 ======
+* **Prime Minister's Research Fellowship**, Ministry of Human Resource and Development, 2020-2023
 * **Intel India Research Fellowship**, Intel India, 2020-2021
 * **VLSID Full Fellowship**, VLSID, Jan 2020
 * **Undergraduate Mentoring Workshop Fellowship**, ISCA, June 2019

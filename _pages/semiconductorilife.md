@@ -22,3 +22,6 @@ More the negativity, the higher the Potential.
 
 ### No excuse
 Sometimes you have to cross the barrier and Sometimes you have to tunnel through it. Either way you reach the destination. And sometimes you should break the barrier.
+
+### Tunelling
+Be like an electron. Despite all the scattering and barriers, it goes from source to destination. But sometimes when the barrier is too high instead of crossing it tunnels through it.

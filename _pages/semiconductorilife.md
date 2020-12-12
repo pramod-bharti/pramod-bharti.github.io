@@ -14,3 +14,11 @@ Our life is like the journey of MOSFET. Since its inception there were challenge
 
 So Keep believing yourself and overcome challenges like a MOSFET.
 
+### Negativity
+
+There is a lot of negativity around you, and so does with our semiconductors. But the point is current cannot flow without electrons. So to let negativity to aid you in success, you have to be the Potential.
+
+More the negativity, the higher the Potential.
+
+### No excuse
+Sometimes you have to cross the barrier and Sometimes you have to tunnel through it. Either way you reach the destination. And sometimes you should break the barrier.

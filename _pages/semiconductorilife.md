@@ -25,3 +25,6 @@ Sometimes you have to cross the barrier and Sometimes you have to tunnel through
 
 ### Tunelling
 Be like an electron. Despite all the scattering and barriers, it goes from source to destination. But sometimes when the barrier is too high instead of crossing it tunnels through it.
+
+### Electron
+A high density of electrons results in a current flow but at the same time single electron in a NAND Flash can create a difference.

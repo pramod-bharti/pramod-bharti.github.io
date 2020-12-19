@@ -6,12 +6,17 @@ redirect_from:
   - /about.html
 keywords:
   - Kailash Prasad
+  - PMRF
+  - Prime Minister Research Fellow
+  - Intel 
+  - Intel India Reasearch Fellow
+  - IIT Gandhinagar
+  - NIT Arunachal Pradesh
+  - IIT Kanpur
   - Kailash Prasad IIT Gandhinagar
   - Kailash Prasad NIT Arunachal Pradesh
   - Kailash Prasad Kendriya Vidyalaya Tenga Valley
   - Kailash Prasad PhD in Electrical Engineering
-  - IIT Gandhinagar
-  - NIT Arunachal Pradesh
 ---
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing, CAD tool design and SRAM Memory Subsystem Design.
@@ -44,7 +49,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 * **Fall 2018 - Present: Teaching Assistant**
   * IIT Gandhinagar
-  * Course: Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture
+  * Course: Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI Design
   * Instructor: [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/)
   
 * **Summer 2017: Student Research Associate**

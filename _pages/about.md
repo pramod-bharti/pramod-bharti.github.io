@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+description: "Kailash Prasad is Prime Minister Research Fellow and Intel India Research Fellow in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar."
 redirect_from: 
   - /about/
   - /about.html

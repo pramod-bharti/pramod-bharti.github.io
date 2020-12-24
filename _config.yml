@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kailash Prasad"
 title_separator          : "-"
 name                     : &name "Kailash Prasad"
-description              : &description "PhD in Electrical Engineering | Prime Minister Research Fellow | Intel India Research Fellow"
+description              : &description "Kailash Prasad is Prime Minister Research Fellow and Intel India Research Fellow in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar"
 url                      : https://kailashprasad.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/personal" # the subpath of your site, e.g. "/blog"
 repository               : "kailash-prasad/kailash-prasad.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kailash Prasad"
   avatar           : "kailash.jpg"
-  bio              : "PhD in Electrical Engineering"
+  bio              : "PhD in Electrical Engineering | Prime Minister Research Fellow | Intel India Research Fellow"
   location         : "nanoDC Lab, 5/207, IITGN"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

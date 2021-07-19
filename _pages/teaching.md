@@ -4,6 +4,16 @@ collection: archive
 permalink: /teaching/
 venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
+* Summer 2021: Teaching Assistant
+  * IIT Gandhinagar
+  * Course: **Introduction to Analog and Digital Electronics**
+  * Instructor: Prof. Nihar Ranjan Mohapatra
+  
+* Spring 2021: Teaching Assistant
+  * IIT Gandhinagar
+  * Course: **IC Design Lab**
+  * Instructor: Prof. Joycee Mekie
+
 * Fall 2020: Teaching Assistant
   * IIT Gandhinagar
   * Course: **VLSI Design**

@@ -39,7 +39,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 # Research Interest
 
-* **Approximate Computing \| Hardware for Machine Learning \| CAD \| Emerging Memories**
+* **Memory Centric Circuits and Architectures | Approximate Computing \| Hardware for Machine Learning \| CAD \| Emerging Memories**
 
 # Education
 
@@ -50,7 +50,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 * **Fall 2018 - Present: Teaching Assistant**
   * IIT Gandhinagar
-  * Course: Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI Design
+  * Course: Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI Design, IC Design
   * Instructor: [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/)
   
 * **Summer 2017: Student Research Associate**

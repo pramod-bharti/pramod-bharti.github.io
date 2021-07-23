@@ -39,7 +39,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 # Research Interest
 
-* **Memory Centric Circuits and Architectures | Approximate Computing \| Hardware for Machine Learning \| CAD \| Emerging Memories**
+* **Memory Centric Circuits and Architectures \| Approximate Computing \| Hardware for Machine Learning \| CAD \| Emerging Memories**
 
 # Education
 

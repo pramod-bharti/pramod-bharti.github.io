@@ -28,6 +28,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
+| September 2021 | 1 papers accepted at [ICECS 2021](https://www.ieeeicecs2021.com/)
 | October 2020  | Awarded the Prestigious Prime Minister's Research Fellowship ([PMRF](https://may2020.pmrf.in/)) 2020
 | August 2020  | Awarded the Prestigious Intel India Research Fellowship 2020
 | April 2020   | Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/presentation/)

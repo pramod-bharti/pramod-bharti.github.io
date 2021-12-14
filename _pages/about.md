@@ -22,6 +22,8 @@ keywords:
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing, CAD tool design and SRAM Memory Subsystem Design.
 
+* <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/CV_Kailash.pdf" target="_blank">Detailed CV</a>
+
 # News and Highlights
 
 <div class="datatable-begin"></div>

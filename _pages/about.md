@@ -30,14 +30,14 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
-| December 2021 | 1 paper accepted at [ISQED 2022](https://www.isqed.org/)
+| December 2021 | 1 paper accepted at IEEE International Symposium on Quality Electronic Design [ISQED 2022](https://www.isqed.org/)
 | December 2021 | Best Research Video Award at the [DAC 2021 Young Fellows Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
 | November 2021 | Selected for DAC Young Fellow Program - [DAC 2021](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
-| September 2021 | 1 paper accepted at [ICECS 2021](https://www.ieeeicecs2021.com/)
+| September 2021 | 1 paper accepted at IEEE International Conference on Electronics Circuits and Systems [ICECS 2021](https://www.ieeeicecs2021.com/)
 | October 2020  | Awarded the Prestigious Prime Minister's Research Fellowship ([PMRF](https://may2020.pmrf.in/)) 2020
 | August 2020  | Awarded the Prestigious Intel India Research Fellowship 2020
 | April 2020   | Learn Python Programming during this COVID 19 Pandemic. [Click Here](https://kailash-prasad.github.io/presentation/)
-| January 2020 | 2 papers accepted at [ISCAS 2020](https://www.iscas2020.org/)
+| January 2020 | 2 papers accepted at  IEEE International Symposium on Circuits and Systems [ISCAS 2020](https://www.iscas2020.org/)
 | January 2020 | Awarded travel grant from VLSID to attend [VLSID 2020](http://embeddedandvlsidesignconference.org/)
 | May 2019 | Awarded travel grant from ACM SIGARCH to attend [ISCA 2019 and uArch Workshop](https://iscaconf.org/isca2019/index.html)
 

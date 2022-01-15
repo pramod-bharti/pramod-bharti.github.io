@@ -30,6 +30,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
+| January 2022 | 1 paper accepted at IEEE International Symposium on Circuits and Systems [ISCAS 2022](https://www.iscas2022.org/)
 | December 2021 | 1 paper accepted at IEEE International Symposium on Quality Electronic Design [ISQED 2022](https://www.isqed.org/)
 | December 2021 | Best Research Video Award at the [DAC 2021 Young Fellows Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
 | November 2021 | Selected for DAC Young Fellow Program - [DAC 2021](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)

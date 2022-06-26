@@ -32,5 +32,6 @@ Past Collaborators
 | Surendra Maurya | M.Tech | Graphics Hardware Engineer at Intel Corporation|
 | Arun Singh Tomar | M.Tech | Design Verification Engineer at Marvell Semiconductor|
 | Vibhor Kumar Srivastava | Intern | Software Development Engineer at Delhivery|
+
 <div class="datatable-end"></div>
 

@@ -32,7 +32,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 | ------------ | ---------------------------------------------- |
 | June 2022 | 1 paper accepted at International Symposium on VLSI Design and Test [VDAT 2022](https://iitjammu.ac.in/vdat2022/)
 | April 2022 | Selected for DAC Young Fellow Program - [DAC 2022](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
-| April 2022 | 1 work accepted for Poster Presentaion at Design Automation Conference [DAC 2022](https://www.dac.com/)
+| April 2022 | 1 work accepted for Poster Presentation at Design Automation Conference [DAC 2022](https://www.dac.com/)
 | January 2022 | Graduate Teaching Fellow (Instructor) for IC Design Lab at IIT Gandhinagar
 | January 2022 | 1 paper accepted at IEEE International Symposium on Circuits and Systems [ISCAS 2022](https://www.iscas2022.org/)
 | December 2021 | 1 paper accepted at IEEE International Symposium on Quality Electronic Design [ISQED 2022](https://www.isqed.org/)

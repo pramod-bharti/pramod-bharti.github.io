@@ -8,16 +8,29 @@ author_profile: true
 Present Collaborators
 ===
 
-* Chandan Kumar Jha
-* Neelam Surana
-* Pramod Bharti
-* Sumit Walia
+* Aditya Biswas
+* Mallikarjun P
+* Alok Pradhan
+* Yaswanth Mittapalli
 
 
 Past Collaborators
 ===
 
-* Arun Singh Tomar, *Currently Working as a Design Verification Engineer at Marvell Semiconductor*
-* Vibhor Kumar Srivastava, *Currently Working as a Software Development Engineer at Delhivery*
-* Gyanendra Tiwari, *Currently Working as a Memory Design Engineer at Ceremorphic*
-* Surendra Maurya, *Currently Working as a Memory Design Engineer at Ceremorphic*
+<div class="datatable-begin"></div>
+
+| Name     | Program | Current Status |
+| :------------ | :------- | :--------------------------------------- |
+| Sumit Walia | B.Tech | PhD Student at UC San Diego |
+| Chandan Kumar Jha | PhD | Principal Research Scientist at IIT Bombay |
+| Rajat Borkar | M.Tech | Graphics Hardware Engineer at Intel Corporation |
+| Roshni Dhandamudi | M.Tech | Memory Design Engineer at Ceremorphic |
+| Rajesh Kumar | M.Tech | Senior Design Engineer at Marvell Technology |
+| Naveen Puri | M.Tech | Memory Design Engineer at Ceremorphic |
+| Tushar Agarwal | M.Tech | Graphics Hardware Engineer at Intel Corporation |
+| Gyanendra Tiwari | M.Tech | R&D engineer II · Synopsys Ind PVT LTD|
+| Surendra Maurya | M.Tech | Graphics Hardware Engineer at Intel Corporation|
+| Arun Singh Tomar | M.Tech | Design Verification Engineer at Marvell Semiconductor|
+| Vibhor Kumar Srivastava | Intern | Software Development Engineer at Delhivery|
+<div class="datatable-end"></div>
+

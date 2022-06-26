@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /collaborators/
 author_profile: true
 ---

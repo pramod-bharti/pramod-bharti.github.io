@@ -50,7 +50,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 # Research Interest
 
-* **Memory Centric Circuits and Architectures \| Approximate Computing \| Hardware for Machine Learning \| CAD \| Posit Number System**
+### Memory Centric Circuits and Architectures \| Approximate Computing \| Hardware for Machine Learning \| CAD \| Posit Number System
 
 # Education
 
@@ -58,19 +58,15 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 * **B.Tech in Electronics and Communication Engineering**, NIT Arunachal Pradesh, 2018
 
 # Work experience
-* **Spring 2022 - Present: Graduate Teaching Fellow**
-  * IIT Gandhinagar
-  * Course: IC Design Lab
 
-* **Fall 2018 - Present: Teaching Assistant**
-  * IIT Gandhinagar
-  * Course: Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI Design, IC Design
-  * Instructor: [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/)
-  
-* **Summer 2017: Student Research Associate**
-  * IIT Kanpur
-  * Topic: Compact Modelling and TCAD simulation of semiconductor devices.
-  * Supervisor: [Prof. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/)
+<div class="datatable-begin"></div>
+
+| Timeline     | Organisation |  Designation | Instructor/Supervisor | Topic/Course |
+| ---------------- | ----------------- | ------------ | ------------ | ------------ |
+| Jan 22 - Apr 22 | IIT Gandhinagar |  Graduate Teaching Fellow | [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/) | Course : IC Design Lab
+| Aug 18 - Present | IIT Gandhinagar |  Teaching Assistant | [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/) |  Course : Digital System, Embedded System, Microelectronics Lab, Computer Organisation and Architecture, VLSI Design, IC Design
+| May 17 - July 17 | IIT Kanpur | Student Research Associate | [Prof. Yogesh Singh Chauhan](http://home.iitk.ac.in/~chauhan/) | Topic : Compact Modelling and TCAD simulation of semiconductor devices.
+
 
 # Student Memberships
 

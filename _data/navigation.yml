@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Awards and Achievements"
+  - title: "Achievements"
     url: /awards/
 
   - title: "Publications"
@@ -18,7 +18,7 @@ main:
   - title: "Presentations"
     url: /presentation/
     
-  - title: "Photo Gallery"
+  - title: "Gallery"
     url: /gallery/
  
   - title: "Collaborators"

@@ -20,7 +20,7 @@ Past Collaborators
 <div class="datatable-begin"></div>
 
 | Name     | Program | Current Status |
-| :------------ | :------- | :--------------------------------------- |
+| ------------ | ------- | --------------------------------------- |
 | Sumit Walia | B.Tech | PhD Student at UC San Diego |
 | Chandan Kumar Jha | PhD | Principal Research Scientist at IIT Bombay |
 | Rajat Borkar | M.Tech | Graphics Hardware Engineer at Intel Corporation |

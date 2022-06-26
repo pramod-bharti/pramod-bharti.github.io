@@ -20,7 +20,7 @@ keywords:
   - Kailash Prasad PhD in Electrical Engineering
 ---
 
-I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of Approximate Computing, CAD tool design and SRAM Memory Subsystem Design.
+I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [IIT Gandhinagar](https://iitgn.ac.in/)  working with [Prof. Joycee Mekie](https://joycee.people.iitgn.ac.in/). I currently work in the area of In Memory Computing, Approximate Computing, CAD tool design and SRAM Memory Subsystem Design.
 
 * <a href="https://github.com/ConstantNIT/kailashprasad/blob/master/_pages/CV_Kailash.pdf" target="_blank">Detailed CV</a>
 
@@ -30,6 +30,9 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
+| June 2022 | 1 paper accepted at International Symposium on VLSI Design and Test [VDAT 2022](https://iitjammu.ac.in/vdat2022/)
+| April 2022 | Selected for DAC Young Fellow Program - [DAC 2022](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
+| April 2022 | 1 work accepted for Poster Presentaion at Design Automation Conference [DAC 2022](https://www.dac.com/)
 | January 2022 | Graduate Teaching Fellow (Instructor) for IC Design Lab at IIT Gandhinagar
 | January 2022 | 1 paper accepted at IEEE International Symposium on Circuits and Systems [ISCAS 2022](https://www.iscas2022.org/)
 | December 2021 | 1 paper accepted at IEEE International Symposium on Quality Electronic Design [ISQED 2022](https://www.isqed.org/)
@@ -47,7 +50,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 # Research Interest
 
-* **Memory Centric Circuits and Architectures \| Approximate Computing \| Hardware for Machine Learning \| CAD \| Emerging Memories**
+* **Memory Centric Circuits and Architectures \| Approximate Computing \| Hardware for Machine Learning \| CAD \| Posit Number System**
 
 # Education
 
@@ -86,11 +89,12 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 * VLSI Design           
 * Physics of Transistors
+* MicroFabrication and Semiconductor Processes
 * Computer Architecture 
 * Machine Learning
-* MicroFabrication
 * CMOS Analog IC Design
 * Computer Networking
 * Microelectronics Lab  
 * IC Design Lab
+* Asynchronous Circuit Design
 * Mathematical Foundation for Computer Vision

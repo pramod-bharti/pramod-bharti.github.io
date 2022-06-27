@@ -7,11 +7,17 @@ author_profile: true
 Present Collaborators
 ===
 
-* Aditya Biswas
-* Mallikarjun P
-* Alok Pradhan
-* Yaswanth Mittapalli
-* Arpita Kabra
+<div class="datatable-begin"></div>
+
+| Name     | Program | Batch |
+| ------------ | ------- | --------------------------------------- |
+| Aditya Biswas | M.Tech | 2020 - 2022
+| Mallikarjun P | M.Tech | 2019 - 2021
+| Alok Pradhan | M.Tech | 2021 - 2023
+| Yaswanth Mittapalli | M.Tech | 2021 - 2023
+| Arpita Kabra| B.Tech | 2018 - 2022
+
+<div class="datatable-end"></div>
 
 
 Past Collaborators

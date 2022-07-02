@@ -36,7 +36,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 | January 2022 | Graduate Teaching Fellow (Instructor) for IC Design Lab at IIT Gandhinagar
 | January 2022 | 1 paper accepted at IEEE International Symposium on Circuits and Systems [ISCAS 2022](https://www.iscas2022.org/)
 | December 2021 | 1 paper accepted at IEEE International Symposium on Quality Electronic Design [ISQED 2022](https://www.isqed.org/)
-| December 2021 | Best Research Video Award at the [DAC 2021 Young Fellows Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
+| December 2021 | Best Research Video Award at the [DAC 2021 Young Fellows Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program) - [Link to the video](https://www.youtube.com/watch?v=TPSk2_oONNQ&t=34s&ab_channel=KailashPrasad)
 | November 2021 | Selected for DAC Young Fellow Program - [DAC 2021](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
 | September 2021 | 1 paper accepted at IEEE International Conference on Electronics Circuits and Systems [ICECS 2021](https://www.ieeeicecs2021.com/)
 | October 2020  | Awarded the Prestigious Prime Minister's Research Fellowship ([PMRF](https://may2020.pmrf.in/)) 2020

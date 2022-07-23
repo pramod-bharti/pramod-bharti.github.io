@@ -20,6 +20,7 @@ redirect_from:
 Fellowships and Scholarship
 ======
 * **DAC Young Fellowship**, DAC 2022, July 2022
+* **Graduate Teaching Fellowship**, IIT Gandhinagar, Jan-Apr 2022
 * **DAC Young Fellowship**, DAC 2021, Nov-Dec 2021
 * **Prime Minister's Research Fellowship**, Ministry of Human Resource and Development, 2020-2023
 * **Intel India Research Fellowship**, Intel India, 2020-2021

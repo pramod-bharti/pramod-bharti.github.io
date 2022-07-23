@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+* **Best Research Video Award**, DAC 2021, Nov-Dec 2021
 * **Chairman Gold Medal**, NIT Arunachal Pradesh, 2018
 * **Institute Gold Medal**, NIT Arunachal Pradesh, 2018
 * **Winner Addovedi Robowar**, NIT Arunachal Pradesh, 2017
@@ -19,6 +19,7 @@ redirect_from:
 
 Fellowships and Scholarship
 ======
+* **DAC Young Fellowship**, DAC 2022, July 2022
 * **DAC Young Fellowship**, DAC 2021, Nov-Dec 2021
 * **Prime Minister's Research Fellowship**, Ministry of Human Resource and Development, 2020-2023
 * **Intel India Research Fellowship**, Intel India, 2020-2021

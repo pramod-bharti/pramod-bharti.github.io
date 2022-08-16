@@ -30,6 +30,7 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, [I
 
 | Timeline     | News                                           |
 | ------------ | ---------------------------------------------- |
+| August 2022 | 1 paper accepted at ACM Transactions on Architecture and Code Optimization [TACO 2022](https://dl.acm.org/journal/taco)
 | June 2022 | 1 paper accepted at International Symposium on VLSI Design and Test [VDAT 2022](https://iitjammu.ac.in/vdat2022/)
 | April 2022 | Selected for DAC Young Fellow Program - [DAC 2022](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)
 | April 2022 | 1 work accepted for Poster Presentation at Design Automation Conference [DAC 2022](https://www.dac.com/)

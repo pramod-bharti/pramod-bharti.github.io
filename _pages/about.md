@@ -18,7 +18,7 @@ Hello, I am Pramod Kumar Bharti, currently enrolled as a Ph.D. at IIT Gandhinaga
 # Educational Background
 ======
 
-### Radiation Hardened Memory \| Approximate Memories design \| In-Memory Computing \| 
+### Radiation Hardened Memory \| Approximate Memories design \| In-Memory Computing 
 
 # Work experience
 

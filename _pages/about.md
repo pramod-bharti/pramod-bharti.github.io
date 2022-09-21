@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Pramod Bharti
+Hello, I am Pramod Kumar Bharti, currently enrolled as a Ph.D. at IIT Gandhinagar with Prof Joycee Mekie. I am working in the area of Application Specific SRAM Memories and SRAM-based In-Memory Computing. I have targeted both approximate and exact memory designs where approximate memories are designed for error-tolerant applications (such as Video CoDec and neural networks), and exact memories are designed for radiation-prone environments ( such as space applications). 
 
 Educational Background
 ======

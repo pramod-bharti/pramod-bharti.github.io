@@ -19,3 +19,4 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
   * Course: **Introduction to neural Netwrok**
   * Instructor: Prof. Saran.
   
+  

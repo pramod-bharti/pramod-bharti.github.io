@@ -17,5 +17,5 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 * Spring 2016: Teaching Assistant
   * IIT Gandhinagar
   * Course: **Introduction to neural Netwrok**
-  * Instructor: Prof. Saran
+  * Instructor: Prof. Saran.
   

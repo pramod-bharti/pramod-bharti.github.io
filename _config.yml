@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pramod Bharti"
 title_separator          : "-"
 name                     : &name "Pramod Bharti"
-description              : &description "Kailash Prasad is Prime Minister Research Fellow and Intel India Research Fellow in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar"
+description              : &description "Pramod Bharti is a PhD Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar"
 url                      : https://pramod-bharti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -86,9 +86,9 @@ author:
   location         : " nanoDC Lab, 5/207, IITGN"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=EL1J32oAAAAJ&hl=en"
+  email            : pramod.bharti@iitgn.ac.in
+  researchgate     : "https://www.researchgate.net/profile/Pramod-Bharti"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pramod-kumar-bharti-7b15b4103/?originalSubdomain=in"
+  linkedin         : "https://www.linkedin.com/in/pramod-kumar-bharti-7b15b4103"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/PramodB49184946"
   vine             :
   weibo            :
   xing             :

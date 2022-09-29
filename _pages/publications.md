@@ -18,5 +18,4 @@ author_profile: true
 6. **Pramod Kumar Bharti**, Neelam Surana, and J.Mekie “_Power and area efficient approximate heterogeneous 8T SRAM for multimedia applications._” (VLSID 2019)
 
 
- -->
 
